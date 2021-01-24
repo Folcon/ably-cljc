@@ -6,9 +6,19 @@ pom.xml.asc
 /classes/
 /target/
 /checkouts/
+profiles.clj
 .lein-deps-sum
 .lein-repl-history
 .lein-plugins/
 .lein-failures
 .nrepl-port
+.prepl-port
 .cpcache/
+
+# mercurial
+.hgignore
+.hg/
+
+# cursive
+*.iml
+.idea/

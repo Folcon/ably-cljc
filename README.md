@@ -7,3 +7,13 @@ Is this a proper ably lib? Not really, it's a thin wrapper around ably's java cl
 If anything it's an example of how to use something like ably from clojure.
 
 Perhaps someday it will be something more.
+
+## Usage
+
+FIXME
+
+## License
+
+Copyright © 2021 Folcon
+
+Please read the `LICENSE` file for details.
